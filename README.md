@@ -1,6 +1,6 @@
 # Python-and-AI-Bootcamp-iCodeGuru-and-WPBrigade
 ## Overview
-This repository contains my End-to-End Machine Learning assignment files for Python and AI Chatbot Bootcamp. It includes the code notebook and report document.
+This repository contains my End-to-End Machine Learning assignment files for Python and AI Chatbot Bootcamp. It includes the code notebook and the report.
 
 ## Files Included
 - ML_Pipeline.ipynb - Jupyter Notebook with all code, analysis, and visualizations.
